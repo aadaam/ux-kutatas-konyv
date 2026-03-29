@@ -40,7 +40,7 @@ Mi köze van a UX-nek a használhatósághoz? Egyfelől különbözik, másfelő
 
 Vegyünk két mobilalkalmazást: a NetPincért és a Tindert. Melyik használható? A válasz nagyon attól függ, hogy éhes vagy-e vagy csajozni akarsz. Ha enni akarok, a NetPincér segít -- lehet, hogy csúnyább, de előbb tudok rajta ételt rendelni, mint a Tinderen. Ha pedig randizni akarok, a Tinderen jobb esélyeim vannak, mint a NetPincéren -- hiába van rengeteg futárlány.
 
-> **A gyakorlatból:** Egy szobatársam beleszeretett egy pizzafutárlányba, ami miatt mindig arról a helyről rendelt. Egyetlen probléma volt: a helynek több futára is volt, és majdnem három hetet kellett várnia, hogy ugyanaz a lány jöjjön ki, és megkérdezhesse, eljön-e randira. (Sajnos volt barátja.) Használható mindkét app mindkettőre -- csak relatív kényelmetlen. Más a felhasználói élmény, ha nem arra van „kipécézve".
+> **A gyakorlatból:** Egy szobatársam beleszeretett egy pizzafutárlányba, ami miatt mindig arról a helyről rendelt. Egyetlen probléma volt: a helynek több futára is volt, és majdnem három hetet kellett várnia, hogy ugyanaz a lány jöjjön ki, és megkérdezhesse, eljön-e randira. (Sajnos volt barátja.) Használható mindkét app mindkettőre -- csak viszonylagkényelmetlen. Más a felhasználói élmény, ha nem arra van „kipécézve".
 
 A felhasználói élmény tehát nagyon függ attól, hogy mire akarom használni, milyen kontextusban, és mi az én háttértudásom. Az ember mindig adott célra próbálja használni a rendszereket -- soha nem „internetezünk" öncélúan. Még a facebookozás is arról szól, hogy tájékozódom a hírekről, vagy közösségben próbálom érezni magam. Vannak érzelmi célok, információszerzési célok, tranzakciós célok.
 
@@ -103,7 +103,7 @@ Két áttételes mérőszám különösen fontos:
 
 **Hibázás kritikussága** (error severity): mit tudok és mennyire elrontani? Itt két dimenziót nézünk: mennyire súlyos a hiba (egy űrkompnál egy gombnyomás felrobbanthat egy atomreaktort -- az nagyon para), és hány embert érint?
 
-> **Megjegyzés:** A hibázás priorizálásánál sajnos gyakran közgazdasági döntések születnek. A súlyosságot és az érintettek számát összeszorozzák, és ebből jön ki a prioritás. Ennek következtében az akadálymentességi hibák -- amelyek relatív kevés embert érintenek, mondjuk 1--2%-ot -- alacsony prioritást kapnak, pedig az érintettek számára kritikusak lehetnek.
+> **Megjegyzés:** A hibázás priorizálásánál sajnos gyakran közgazdasági döntések születnek. A súlyosságot és az érintettek számát összeszorozzák, és ebből jön ki a prioritás. Ennek következtében az akadálymentességi hibák -- amelyek viszonylagkevés embert érintenek, mondjuk 1--2%-ot -- alacsony prioritást kapnak, pedig az érintettek számára kritikusak lehetnek.
 
 A harmadik áttételes mérőszám a **megjegyezhetőség** (memorability): ha ritkán kell egy funkcióhoz nyúlni -- mondjuk havi jelentés --, mennyire emlékszik az illető, hogyan kell csinálni?
 
@@ -129,7 +129,7 @@ A NASA a mentális terhelés mérésére fejlesztett ki kérdőívet, a TLX-et. 
 
 ### A Rendszerhasználhatósági Skála -- RHS (System Usability Scale, SUS)
 
-Ez az a kérdőív, amelyről tudományosan több tucat publikáció bizonyítja, hogy nyelvek között stabil, helyzetek között stabil, emberek között stabil -- tehát relatív jól korrelál azzal, hogy tényleg milyen a felhasználói élmény.
+Ez az a kérdőív, amelyről tudományosan több tucat publikáció bizonyítja, hogy nyelvek között stabil, helyzetek között stabil, emberek között stabil -- tehát viszonylagjól korrelál azzal, hogy tényleg milyen a felhasználói élmény.
 
 Az RHS tíz állítást tartalmaz, amelyeket 1-től 5-ig pontozunk (1 = „egyáltalán nem értek egyet", 5 = „teljesen egyetértek"):
 

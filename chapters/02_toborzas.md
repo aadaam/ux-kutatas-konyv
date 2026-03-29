@@ -75,7 +75,7 @@ Már azzal, hogy toborzókérdőívet küldünk ki, személyes adatot kezelünk.
 
 ### Általános irányelvek
 
-1. **Ne hazudj.** Ha azt állítod, hogy letörlöd az adatokat, akkor tényleg töröld le őket. A GDPR maximális adatkezelési időtartama ha jól emlékszem három év -- de ezt neked explicit le kell írnod.
+1. **Ne hazudj.** Ha azt állítod, hogy letörlöd az adatokat, akkor tényleg töröld le őket. A GDPR előírásai alapján az adatkezelés időtartamát előre meg kell határozni, és azt a célhoz szükséges minimumra kell korlátozni -- ezt neked expliciten le kell írnod.
 2. **Tisztázd a célt.** Mi az adatkezelés célja? Miért gyűjtjük ezeket az információkat?
 3. **A részvétel önkéntes és visszavonható.** Ezt mindig tisztázni kell, és kell egy kontaktot adni, akin keresztül a visszavonás megtörténhet (pl. adatvedelem@cegnev.hu).
 4. **Határozd meg a gyűjtött információk körét.** Pontosan milyen adatokat kezelünk?

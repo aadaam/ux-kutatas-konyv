@@ -60,9 +60,9 @@ Ezt a szót gyakran keverik. Hívják user journey-nek, customer journey-nek, n�
 
 ### A képernyőn túl kell látni
 
-Gondold azt, hogy van egy webshopod. Ez egy relatív triviális UX-es feladat. De az emberközpontú tervezés egyik alapelve kimondja, hogy a képernyőn túl kell látni, és a teljes felhasználói életciklust (lifecycle) kell figyelembe venni. Hogyan kezdődik? Például úgy, hogy a felhasználó lát egy reklámot a Facebookon -- vagy akár még előbb. Hogyan végződik? Rossz esetben panasszal, de legalábbis lesz egy átvétel.
+Gondold azt, hogy van egy webshopod. Ez egy viszonylagtriviális UX-es feladat. De az emberközpontú tervezés egyik alapelve kimondja, hogy a képernyőn túl kell látni, és a teljes felhasználói életciklust (lifecycle) kell figyelembe venni. Hogyan kezdődik? Például úgy, hogy a felhasználó lát egy reklámot a Facebookon -- vagy akár még előbb. Hogyan végződik? Rossz esetben panasszal, de legalábbis lesz egy átvétel.
 
-> **A gyakorlatból:** Még ha ez Netpincér is, van egy húsz perc, amíg átvesszük a kaját. Nem ott fejeződik be a tranzakció, hogy lekattintottuk a webshopon. Nem ott fejeződik be az élmény -- annak ellenére, hogy napok telhetnek el, vagy rosszabb esetben akár hónapok is, ha a vám megfogja a kínai termékünket.
+> **A gyakorlatból:** Még ha ez NetPincér is, van egy húsz perc, amíg átvesszük a kaját. Nem ott fejeződik be a tranzakció, hogy lekattintottuk a webshopon. Nem ott fejeződik be az élmény -- annak ellenére, hogy napok telhetnek el, vagy rosszabb esetben akár hónapok is, ha a vám megfogja a kínai termékünket.
 
 ### Üzleti folyamatok vs. rendszerfolyamatok
 
@@ -158,7 +158,7 @@ Nagyon fontos, hogy ezt együtt csináljátok: tervezők, kutatók és megrendel
 
 ### A mentális modell
 
-Amikor az ötleteket is hozzápárosítjuk a feldolgozáshoz, azt mentális modellnek hívjuk. Indi Young nevű kutató írt róla könyvet. Felül vannak azok a dolgok, amik az interjúból kiestek -- például egy reggeli készülődés --, és alul vannak azok a feature ötletek, amikkel mi próbáljuk párosítani ezeket. A klasszikus pontozós módszerrel elkezdjük értékelni az ötleteket, és ez tulajdonképpen megadja a leendő szoftver vagy szolgáltatás funkciótérképét (feature map).
+Amikor az ötleteket is hozzápárosítjuk a feldolgozáshoz, azt mentális modellnek hívjuk. Indi Young írt róla könyvet (*Mental Models*, Rosenfeld Media). Felül vannak azok a dolgok, amik az interjúból kiestek -- például egy reggeli készülődés --, és alul vannak azok a feature ötletek, amikkel mi próbáljuk párosítani ezeket. A klasszikus pontozós módszerrel elkezdjük értékelni az ötleteket, és ez tulajdonképpen megadja a leendő szoftver vagy szolgáltatás funkciótérképét (feature map).
 
 ## A vezetők meggyőzése történetekkel
 

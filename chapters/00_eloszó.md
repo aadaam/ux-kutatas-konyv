@@ -42,4 +42,4 @@ Nem kell mindent egyszerre elolvasnod. Az első fejezet a használhatósági tes
 
 Az elméletet olvasni hasznos, de a lényeg a gyakorlás. Minden fejezet után próbáld ki, amit tanultál. Ültesd le az első tesztalanyt. Készítsd el az első interjútervet. Írd meg az első kutatás-összefoglalót. Így fog igazán beépülni.
 
-Köszönöm, hogy itt vagy. Váglak bele!
+Köszönöm, hogy itt vagy. Vágjunk bele!

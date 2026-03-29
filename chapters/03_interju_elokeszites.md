@@ -2,7 +2,7 @@
 
 Az előző fejezetben megtanultuk, hogyan toborozzunk résztvevőket a kutatásunkhoz. Most, hogy megvannak az alanyaink, ideje felkészülni arra, hogy ténylegesen beszélgessünk velük. Ebben a fejezetben végigmegyünk azon, hogyan állítsuk össze az interjú témaköreit, milyen kérdéseket tegyünk fel, és milyen hibákat kerüljünk el -- mert egy rosszul előkészített interjú rosszabb, mintha el sem kezdtük volna.
 
-## 3.1 A sztereotípiavizsgálat: honnan indulunk?
+## A sztereotípiavizsgálat: honnan indulunk?
 
 Mielőtt egyáltalán kérdéseket fogalmaznánk meg, tisztáznunk kell, hogy mi magunk -- mint szervezet -- mit gondolunk a világról. Nem elég, ha csak a kutatók vagy a UX-dizájnerek gondolkodnak el ezen: a főnökök, a döntéshozók, mindenki, aki a kutatás eredményeit majd felhasználja, szintén vegyen részt.
 
@@ -32,11 +32,11 @@ Amikor témakörökbe rendezzük a gondolatainkat, jellemzően az alábbi terül
 - **Problémák, szükségletek** -- Milyen akadályokba ütköznek, miközben ezeket a célokat el akarják érni?
 - **Jelenlegi megoldások** -- Hogyan próbálják most megoldani ezeket a problémákat?
 
-Ezekre fogunk leginkább fókuszálni az interjú során is, hiszen personákat próbálunk alkotni, illetve felhasználói útvonalat (user journey) rajzolni.
+Ezekre fogunk leginkább fókuszálni az interjú során is, hiszen perszónákat próbálunk alkotni, illetve felhasználói útvonalat (user journey) rajzolni.
 
 > **Tipp:** Ezt a sztereotípiavizsgálatot minden egyes interjúsorozat előtt végezzük el. Nem kihagyható lépés -- ez adja az egész kutatás keretét.
 
-## 3.2 Demó interjú: így néz ki a gyakorlatban
+## Demó interjú: így néz ki a gyakorlatban
 
 Mielőtt a kérdéstechnikát részletesen tárgyalnánk, nézzünk egy valós interjúrészletet. Tegyük fel, hogy egy telekommunikációs cég vagyunk, amely telefont szeretne eladni fiataloknak, a 20--25 éves korosztálynak. Az interjúalanyunk Gyuri.
 
@@ -110,7 +110,7 @@ Mielőtt a kérdéstechnikát részletesen tárgyalnánk, nézzünk egy valós i
 
 > **A gyakorlatból:** Figyeld meg, hogy az interjúban a kérdező soha nem kérdezi Gyuri véleményét a telefonokról. Ehelyett konkrét viselkedéseket, történeteket kérdez: mióta van a telefonod, mire használtad, kivel beszéltél. A Bixby-s „félretelefonálás" története is úgy jött elő, hogy hagyta Gyurit mesélni -- nem volt az eredeti kérdéslistán.
 
-## 3.3 A jó interjúkérdések tulajdonságai
+## A jó interjúkérdések tulajdonságai
 
 Most, hogy láttuk a demó interjút, nézzük meg szisztematikusan, mik a jó interjúkérdés legfőbb jellemzői.
 
@@ -152,7 +152,7 @@ Ugyanúgy a miértre kérdezünk, csak nem a „miért" szóval.
 
 A történeteket a legegyszerűbben úgy tudjuk megszerezni, ha **csendben maradunk**. Feltesszük a kérdést -- „Mit ettél reggelire?" -- és az illető válaszol: „Péksütit." Mi nem reagálunk, csendben maradunk. Erre folytatja: „Kakaós csigát." Azzal, hogy csendben maradunk, arra ösztönözzük a másikat, hogy elkezdje kitölteni a teret, és egyre részletesebben meséljen.
 
-## 3.4 A jó interjú ismérvei
+## A jó interjú ismérvei
 
 A jó kérdéseken túl magának az interjúnak is vannak fontos tulajdonságai.
 
@@ -180,7 +180,7 @@ Nem úgy kell erre gondolni, mint egy hipotézis igazolására vagy megcáfolás
 
 > **Tipp:** Az interjú sikeressége nem azon múlik, hány kérdést tettél fel, hanem azon, mennyire tudtál új dolgot megtanulni a másik ember világáról.
 
-## 3.5 Az interjúkérdések összeállítása
+## Az interjúkérdések összeállítása
 
 Most, hogy értjük a jó kérdések tulajdonságait, nézzük meg, hogyan állítjuk össze a konkrét kérdéslistát csapatmunkában.
 
@@ -202,7 +202,7 @@ A szavazás után témakörönként körülbelül három kérdésünk marad -- e
 
 Ez lesz az interjú-útmutató (interview guide) alapja, ami rugalmas vezérfonalat ad, nem merev kérdőívet.
 
-## 3.6 Tipikus hibák az interjúkérdésekben
+## Tipikus hibák az interjúkérdésekben
 
 Végül nézzük meg a leggyakoribb hibákat, amelyekkel újra és újra találkozunk a gyakorlatban.
 
