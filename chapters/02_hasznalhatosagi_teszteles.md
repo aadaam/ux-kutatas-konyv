@@ -120,7 +120,7 @@ A tesztfeladatokat néha **kerettörténetekbe** szervezzük. A kerettörténetn
 - egy **célja**, amit meg akar valósítani
 - **kontextusa / korlátozó tényezői**, amik a teszt kereteit biztosítják (pl. ha még nem vagyunk bent a Google-ben az adott feladatra, viszont nem konkurenciatesztet akarunk végezni, játszhatjuk, hogy a mi oldalunk jött be első találatként)
 
-Ez adja a **szimulációt**. Lehetséges, hogy a feladat nagyon is valós, ekkor **felügyelt** környezetnek hívjuk ezt, ahol az elemek megfigyelhetőek. Példa: ha az illetőnek tényleg kell vennie egy BKV bérletet mostazonnal :)
+Ez adja a **szimulációt**. Lehetséges, hogy a feladat nagyon is valós, ekkor **felügyelt** környezetnek hívjuk ezt, ahol az elemek megfigyelhetőek. Példa: ha az illetőnek tényleg kell vennie egy BKV bérletet mostazonnal.
 
 ### Hány tesztfeladat? Milyen hosszúak legyenek?
 
@@ -146,7 +146,7 @@ Térjünk ki egyesével ezekre.
 
 ### A szoftvert teszteljük, nem a user-t
 
-A usertesztelés egy zárt ajtós pszichológiai viselkedésteszt, amely a felhasználó--gép interakciót teszteli. Óhatatlanul kiderülnek a felhasználókról is dolgok. De: **egy userteszten minden csak és kizárólag a szoftver hibája lehet**. Mindig gondoljunk abba: amibe egy felhasználó belebukik, belebukhat másik is!
+A usertesztelés egy zárt ajtós pszichológiai viselkedésteszt, amely a felhasználó--gép interakciót teszteli. Óhatatlanul kiderülnek a felhasználókról is dolgok. De: **egy userteszten minden csak és kizárólag a szoftver hibája lehet**. Mindig gondoljunk bele: amibe egy felhasználó belebukik, belebukhat másik is!
 
 Ezt minden esetben **mondjuk is el** a tesztalanynak:
 

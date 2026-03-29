@@ -60,7 +60,7 @@ Ezt a szót gyakran keverik. Hívják user journey-nek, customer journey-nek, n�
 
 ### A képernyőn túl kell látni
 
-Gondold azt, hogy van egy webshopod. Ez egy viszonylagtriviális UX-es feladat. De az emberközpontú tervezés egyik alapelve kimondja, hogy a képernyőn túl kell látni, és a teljes felhasználói életciklust (lifecycle) kell figyelembe venni. Hogyan kezdődik? Például úgy, hogy a felhasználó lát egy reklámot a Facebookon -- vagy akár még előbb. Hogyan végződik? Rossz esetben panasszal, de legalábbis lesz egy átvétel.
+Gondold azt, hogy van egy webshopod. Ez egy viszonylag triviális UX-es feladat. De az emberközpontú tervezés egyik alapelve kimondja, hogy a képernyőn túl kell látni, és a teljes felhasználói életciklust (lifecycle) kell figyelembe venni. Hogyan kezdődik? Például úgy, hogy a felhasználó lát egy reklámot a Facebookon -- vagy akár még előbb. Hogyan végződik? Rossz esetben panasszal, de legalábbis lesz egy átvétel.
 
 > **A gyakorlatból:** Még ha ez NetPincér is, van egy húsz perc, amíg átvesszük a kaját. Nem ott fejeződik be a tranzakció, hogy lekattintottuk a webshopon. Nem ott fejeződik be az élmény -- annak ellenére, hogy napok telhetnek el, vagy rosszabb esetben akár hónapok is, ha a vám megfogja a kínai termékünket.
 
