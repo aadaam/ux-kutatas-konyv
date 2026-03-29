@@ -23,13 +23,13 @@ A user test **nem statisztikai alap**. A kutatási képlet továbbra is:
 
 **kutatás = kvalitatív x kvantitatív**
 
-A kvalitatív mérések felhívják a figyelmet **jelenségekre**, amelyek előfordulását lehet mérni kvantitatív (számszerű) mérésekkel, és amelyek lehetséges magyarázatot adhatnak a már megfigyelt jelenségekre. Ily módon a kvalitatív és kvantitatív vizsgálatok kiegészítik egymást.
+A kvalitatív mérések felhívják a figyelmet **jelenségekre**, amelyek előfordulását lehet mérni kvantitatív (számszerű) mérésekkel, és amelyek lehetséges magyarázatot adhatnak a már megfigyelt jelenségekre. Így a kvalitatív és kvantitatív vizsgálatok kiegészítik egymást.
 
 Ettől függetlenül, a miértek ismeretében néhány jelenség esetén a gyakorlatban gyakran vonunk következtetéseket kvantitatív ellenőrzés nélkül: ha már a második felhasználó se tudott belépni, mert a login gomb „el van dugva", ennek várhatóan vannak kvantitatív következményei is, egyszerűbb kijavítani, mint mondjuk A/B teszttel lemérni ennek valóságalapját.
 
 ## Mi kell a teszthez?
 
-Nézzük meg, mi kell ahhoz, hogy nekiálljunk. Három dolog szükségeltetik:
+Nézzük meg, mi kell ahhoz, hogy nekiálljunk. Három dolog kell hozzá:
 
 1. **Egy szoftver vagy prototípus** -- amit tesztelünk
 2. **Egy tesztalany** -- aki tesztel
@@ -44,11 +44,11 @@ Ezen kívül jó, ha van nálunk:
 
 Az eszközök jó részét biztosítja asztali szoftver esetében egy képernyőfelvevő alkalmazás (például Camtasia), de vannak ingyenes eszközök is. Mobilon iOS esetében reflector típusú szoftvert használunk, de a budapesti UXStudio két webkamerával és egy fakanállal is megoldotta a dolgot -- szóval ne azon akadj fenn, hogy nincs profi felszerelésed.
 
-> **Tipp:** Általánosságban elmondható, hogy ingyenes, beépített szoftverrel és hardverrel is gyönyörűen meg lehet oldani egy tesztelést, de természetesen szakeszközök is tömerdek mennyiségben állnak rendelkezésre. Ilyet ne csináljunk: ne halasszuk a tesztelést azért, mert „még nincs meg a megfelelő eszköz". Egy telefon kamerája és egy csendes sarok is elég az elinduláshoz.
+> **Tipp:** Általánosságban elmondható, hogy ingyenes, beépített szoftverrel és hardverrel is gyönyörűen meg lehet oldani egy tesztelést, de természetesen szakeszközök is tömérdek mennyiségben állnak rendelkezésre. Ilyet ne csináljunk: ne halasszuk a tesztelést azért, mert „még nincs meg a megfelelő eszköz". Egy telefon kamerája és egy csendes sarok is elég az elinduláshoz.
 
 ### Beleegyező nyilatkozat
 
-Az európai uniós törvények szerint mindennemű rögzítéshez a tesztalany explicit beleegyezése szükséges. Érdemes kitöltetni egy beleegyező nyilatkozatot.
+Az európai uniós törvények szerint bármilyen rögzítéshez a tesztalany explicit beleegyezése szükséges. Érdemes kitöltetni egy beleegyező nyilatkozatot.
 
 > **Figyelem!** A magyar adatvédelmi szabályok ennél bonyolultabbak -- adatkezelési nyilatkozat és társai is kellenek. Ha jobb kell, keress egy ügyvédet. Az első tesztünk mindig legyen személyes teszt: a tesztalany, a tesztelendő szoftver és a tesztet vezető moderátor egymás kb. 1 m-es körzetén belül tartózkodjon.
 
@@ -58,7 +58,7 @@ Rövid válasz: akit találsz.
 
 Hosszú válasz: a legtöbb hiba nem felhasználó-függő. Bárki, aki **nem ismeri a szoftver működését belülről**, megfelel a célnak.
 
-Ebből rögtön következik az is, hogy **mind a megrendelő alkalmatlan usertesztre tesztalanynak**. Képzeld el: ő ismeri a rendszert, tudja, hol van minden gomb, fejben benne van az egész menüstruktúra. Egyszerűen képtelen nem tudni, amit tud -- olyan, mint nem gondolni a rózsaszín elefántra. Bár szavakban játszhatsz ilyet, a viselkedésed más szinten dől el.
+Ebből rögtön következik az is, hogy **a megrendelő minden esetben alkalmatlan usertesztre tesztalanynak**. Képzeld el: ő ismeri a rendszert, tudja, hol van minden gomb, fejben benne van az egész menüstruktúra. Egyszerűen képtelen nem tudni, amit tud -- olyan, mint nem gondolni a rózsaszín elefántra. Bár szavakban játszhatsz ilyet, a viselkedésed más szinten dől el.
 
 > **Megjegyzés:** A megrendelőt ne engedjük tesztalni, akárhogy is kéri. Nem arról van szó, hogy a véleménye nem számít -- de ő a rendszer belső működéséhez van hozzászokva, és ez megakadályozza, hogy úgy viselkedjen, mint egy valódi felhasználó.
 
@@ -170,7 +170,7 @@ Valós élethelyzetet szimulálunk: egy valós élethelyzetben nincs senki, aki 
 
 **Ne válaszoljunk a felhasználó rendszert érintő kérdéseire érdemben!** Ha kérdez, nyugodt hangon figyelmeztessük, hogy a **tényleges felhasználók mögött se fog ülni senki**. Esetleg kérdezzünk vissza: „te mit tennél ebben az esetben?", „szerinted miért van ez így?", „számodra ez hogy lenne logikus?", „te mire számítanál?"
 
-> **Figyelem!** Üljünk úgy, hogy a felhasználó ne lássa a testbeszédünket. A testbeszédünk sokmindent elárulhat arról, hogy mi az, ami nem az elképzeléseink szerint alakul. Ha a fogszívást, felnyögést sikerül is megúsznunk, testünk még ezer módon kommunikálhatja meglepődésünket. **A legjobb, ha a felhasználó mögé ülünk úgy, hogy még lássuk az általa használt felületet, és halljuk, amit mond**, de ő ne lássa a mi arckifejezésünket.
+> **Figyelem!** Üljünk úgy, hogy a felhasználó ne lássa a testbeszédünket. A testbeszédünk sok mindent elárulhat arról, hogy mi az, ami nem az elképzeléseink szerint alakul. Ha a fogszívást, felnyögést sikerül is megúsznunk, testünk még ezer módon kommunikálhatja meglepődésünket. **A legjobb, ha a felhasználó mögé ülünk úgy, hogy még lássuk az általa használt felületet, és halljuk, amit mond**, de ő ne lássa a mi arckifejezésünket.
 
 **Ne terelgessük a felhasználót!** Ha a felhasználó nem találja meg magától a dolgokat, az bizony usability hiba. Tudom, hogy nehéz -- ott ülsz mögötte, látod, hogy a megoldás ott van két centire a kurzorától, és az egész tested azt üvölti, hogy „ott van, ott van!" De nem szólhatsz. Ez a szabály.
 
@@ -192,7 +192,7 @@ Mondjuk el neki a teszt elején:
 
 > *„Szeretnélek megkérni, hogy amennyire csak lehet, a teszt folyamán gondolkozz hangosan: mondd, mire nézel épp, mit keresel, mit próbálsz elérni, mit gondolsz, mit érzel. Ezzel sokat segítesz a problémák megértésében."*
 
-Amennyiben a felhasználó már jóideje csendben van, esetleg feltehetünk neki kérdéseket:
+Amennyiben a felhasználó már jó ideje csendben van, esetleg feltehetünk neki kérdéseket:
 
 - Most min gondolkodsz?
 - (Váltásnál) Mit látsz most?
