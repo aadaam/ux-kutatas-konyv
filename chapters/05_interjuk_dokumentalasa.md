@@ -1,6 +1,6 @@
-# 4. Interjúk dokumentálása és feldolgozása
+# 5. Interjúk dokumentálása és feldolgozása
 
-Az előző fejezetekben megtanultuk, hogyan készítsünk interjúkat, hogyan kérdezzünk úgy, hogy valódi történeteket kapjunk. Most ott tartunk, hogy van egy rakás jegyzetünk, jobb esetben felvételeink -- és az a nagy kérdés, hogy mit kezdjünk mindezzel. Ebben a fejezetben a nyers interjúadatokból hozunk létre használható eszközöket: perszónákat (persona), felhasználói utakat (user journey) és életciklusokat (lifecycle), egy közös feldolgozó workshop keretében.
+Az előző fejezetben megtanultuk, hogyan készítsünk interjúkat, hogyan kérdezzünk úgy, hogy valódi történeteket kapjunk. Most ott tartunk, hogy van egy rakás jegyzetünk, jobb esetben felvételeink -- és az a nagy kérdés, hogy mit kezdjünk mindezzel. Ebben a fejezetben a nyers interjúadatokból hozunk létre használható eszközöket: perszónákat (persona), felhasználói utakat (user journey) és életciklusokat (lifecycle), egy közös feldolgozó workshop keretében.
 
 ## Mi az a perszóna (persona)?
 

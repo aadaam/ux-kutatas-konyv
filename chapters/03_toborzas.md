@@ -1,6 +1,6 @@
-# 2. Résztvevők toborzása
+# 3. Résztvevők toborzása
 
-Most, hogy tisztáztuk, mit jelent a felhasználói élmény és a használhatóság, ideje valódi felhasználókkal beszélnünk. Ahhoz viszont, hogy interjúzni tudjunk, interjúalanyokra van szükségünk -- és ez nem mindig triviális. A toborzás az a folyamat, amellyel megtaláljuk, megszűrjük és behívjuk a számunkra releváns embereket.
+Most, hogy megismertük a használhatósági tesztelés alapjait, ideje valódi felhasználókkal beszélnünk. Ahhoz viszont, hogy interjúzni tudjunk, interjúalanyokra van szükségünk -- és ez nem mindig triviális. A toborzás az a folyamat, amellyel megtaláljuk, megszűrjük és behívjuk a számunkra releváns embereket.
 
 ## A toborzás menete
 

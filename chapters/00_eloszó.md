@@ -14,15 +14,17 @@ Nem kell hozzá előképzettség. Ami kell: kíváncsiság, és néhány ember, 
 
 ## Mit tanulsz ebből a könyvből?
 
-A könyv négy nagy témát jár körbe:
+A könyv öt nagy témát jár körbe:
 
-1. **Használhatósági tesztelés (usability testing)** -- Ez az egyik legfontosabb technika a felhasználókutatásban (user research), és viszonylag könnyen elsajátítható. Leültetsz valakit a terméked elé, megkéred, hogy csináljon vele valamit, és figyeled, mi történik. Egyszerűen hangzik, de meglepően sok mindent megtanulsz belőle.
+1. **A UX alapjai** -- Mit jelent a felhasználói élmény, mi a használhatóság, és miért fontos, hogy ne a saját fejünkből tervezzünk.
 
-2. **Interjúzás (user interview)** -- Hogyan készülj fel egy interjúra, hogyan kérdezz úgy, hogy valódi válaszokat kapj, és hogyan kerüld el a tipikus csapdákat. Két fejezetet is szánunk erre, mert megéri.
+2. **Használhatósági tesztelés (usability testing)** -- Ez az egyik legfontosabb technika a felhasználókutatásban (user research), és viszonylag könnyen elsajátítható. Leültetsz valakit a terméked elé, megkéred, hogy csináljon vele valamit, és figyeled, mi történik. Egyszerűen hangzik, de meglepően sok mindent megtanulsz belőle.
 
 3. **Toborzás (recruiting)** -- Honnan szerezz tesztalanyokat, és hogyan válaszd ki a megfelelő embereket. Mert hiába a legjobb interjútechnika, ha nem a célközönségedet (target audience) kérdezed.
 
-4. **Kutatás-összefoglalók írása** -- Hogyan dolgozd fel és mutasd be az eredményeidet úgy, hogy a csapatod, a főnököd vagy az ügyfeled is megértse, mit találtál.
+4. **Interjúzás (user interview)** -- Hogyan készülj fel egy interjúra, hogyan kérdezz úgy, hogy valódi válaszokat kapj, és hogyan kerüld el a tipikus csapdákat.
+
+5. **Kutatás-összefoglalók írása** -- Hogyan dolgozd fel és mutasd be az eredményeidet úgy, hogy a csapatod, a főnököd vagy az ügyfeled is megértse, mit találtál.
 
 > **Megjegyzés:** A felhasználókutatás az, ahol a tervezési folyamat (design process) elkezdődik. Előbb megértjük, kinek tervezünk és miért -- és csak utána nyúlunk a tervezési mintákhoz. Ez a könyv a tervezési minták könyvének társa: az itt tanultak adják az alapot, amire aztán a felületeket építed.
 
@@ -38,7 +40,7 @@ Fontos, hogy a megfelelő embereket válaszd. Ha mondjuk egy vasúti fordaszerke
 
 ## Mielőtt belevágsz
 
-Nem kell mindent egyszerre elolvasnod. Az első fejezet a használhatósági tesztelésről szól, és ez önmagában is működik -- elolvasod, kipróbálod, és máris tanultál valamit. A további fejezetek egymásra épülnek, de bármelyikhez vissza tudsz térni később.
+Nem kell mindent egyszerre elolvasnod. Az első fejezet a UX alapjairól szól, a második a használhatósági tesztelésről -- ez utóbbi önmagában is működik, elolvasod, kipróbálod, és máris tanultál valamit. A további fejezetek egymásra épülnek, de bármelyikhez vissza tudsz térni később.
 
 Az elméletet olvasni hasznos, de a lényeg a gyakorlás. Minden fejezet után próbáld ki, amit tanultál. Ültesd le az első tesztalanyt. Készítsd el az első interjútervet. Írd meg az első kutatás-összefoglalót. Így fog igazán beépülni.
 

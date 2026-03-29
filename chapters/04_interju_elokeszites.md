@@ -1,4 +1,4 @@
-# 3. Az interjú előkészítése
+# 4. Az interjú előkészítése
 
 Az előző fejezetben megtanultuk, hogyan toborozzunk résztvevőket a kutatásunkhoz. Most, hogy megvannak az alanyaink, ideje felkészülni arra, hogy ténylegesen beszélgessünk velük. Ebben a fejezetben végigmegyünk azon, hogyan állítsuk össze az interjú témaköreit, milyen kérdéseket tegyünk fel, és milyen hibákat kerüljünk el -- mert egy rosszul előkészített interjú rosszabb, mintha el sem kezdtük volna.
 
