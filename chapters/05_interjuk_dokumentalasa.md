@@ -158,7 +158,7 @@ Nagyon fontos, hogy ezt együtt csináljátok: tervezők, kutatók és megrendel
 
 ### A mentális modell
 
-Amikor az ötleteket is hozzápárosítjuk a feldolgozáshoz, azt mentális modellnek hívjuk. Indi Young írt róla könyvet (*Mental Models*, Rosenfeld Media). Felül vannak azok a dolgok, amik az interjúból kiestek -- például egy reggeli készülődés --, és alul vannak azok a feature ötletek, amikkel mi próbáljuk párosítani ezeket. A klasszikus pontozós módszerrel elkezdjük értékelni az ötleteket, és ez tulajdonképpen megadja a leendő szoftver vagy szolgáltatás funkciótérképét (feature map).
+Amikor az ötleteket is hozzápárosítjuk a feldolgozáshoz, azt mentális modellnek hívjuk. Indi Young írt róla könyvet. Felül vannak azok a dolgok, amik az interjúból kiestek -- például egy reggeli készülődés --, és alul vannak azok a feature ötletek, amikkel mi próbáljuk párosítani ezeket. A klasszikus pontozós módszerrel elkezdjük értékelni az ötleteket, és ez tulajdonképpen megadja a leendő szoftver vagy szolgáltatás funkciótérképét (feature map).
 
 ## A vezetők meggyőzése történetekkel
 

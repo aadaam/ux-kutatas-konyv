@@ -101,7 +101,7 @@ Két áttételes mérőszám különösen fontos:
 
 **Tanulhatóság** (learnability): ahogy használom a rendszert újra és újra, mennyivel leszek hatékonyabb? Mennyivel hasznosabb számomra? Ez egy áttételes mérték, ami az idővel változó hatékonyságot és hasznosságot mutatja.
 
-**Hibázás kritikussága** (error severity): mit tudok és mennyire elrontani? Itt két dimenziót nézünk: mennyire súlyos a hiba (egy űrkompnál egy gombnyomás felrobbanthat egy atomreaktort -- az nagyon para), és hány embert érint?
+**Hibázás kritikussága** (error severity): mit tudok és mennyire elrontani? Itt két dimenziót nézünk: mennyire súlyos a hiba (ha tényleg felrobban egy atomreaktor, ahogy tette ezt többször -- az nagyon para), és hány embert érint?
 
 > **Megjegyzés:** A hibázás priorizálásánál sajnos gyakran közgazdasági döntések születnek. A súlyosságot és az érintettek számát összeszorozzák, és ebből jön ki a prioritás. Ennek következtében az akadálymentességi hibák -- amelyek viszonylag kevés embert érintenek, mondjuk 1--2%-ot -- alacsony prioritást kapnak, pedig az érintettek számára kritikusak lehetnek.
 

@@ -140,7 +140,7 @@ Az emberi figyelem korlátai miatt **egy jó teszt felnőttekkel maximum nettó 
 
 Kiválóan megfelel tetszőleges meetingszoba, konyha, kávézó vagy pláza foodcourt asztalsora (csúcsidőn kívül).
 
-> **A gyakorlatból:** A MÁV-automaták tesztelésénél a Kreában tanítottam, és felmerült a kérdés: hol lehetne egy interaktív rendszer tömeges, élő használatát este öt és hét óra között megfigyelni? Hát adott a válasz -- a Nyugati pályaudvaron pont akkor van csúcsidő. Kimentünk a diákokkal és végignéztük, hogyan használják az emberek a jegyautomatákat. A diákok mindenféle következtetéseket vontak le, gondolatban újratervezték a felületet. De ami igazán tanulságos volt: az élő megfigyelés olyan dolgokat mutat meg, amire előzetesen sose gondolnál. Láttuk, hogyan tanácstalanodnak el az emberek, hogyan kérnek segítséget egymástól, hol állnak meg és gondolkodnak. Ezt semmilyen labor nem tudja pótolni.
+> **A gyakorlatból:** A MÁV-automaták tesztelésénél a Kreában tanítottam, és felmerült a kérdés: hol lehetne egy interaktív rendszer tömeges, élő használatát este öt és hét óra között megfigyelni? Hát adott a válasz -- a Nyugati pályaudvaron pont akkor van csúcsidő. Kimentünk a diákokkal és végignéztük, hogyan használják az emberek a jegyautomatákat. A diákok mindenféle következtetéseket vontak le, gondolatban újratervezték a felületet.
 
 ## Hogyan tesztelünk? -- A három ökölszabály
 
@@ -207,7 +207,7 @@ Különösen **prototípustesztelésnél** (például papírprototípus) hasznos
 
 Beszéljünk egy kicsit arról is, hogy a tesztelésnek nem kell mindig a „normál" felhasználói helyzetekre szorítkoznia. Sőt -- az igazán értékes eredmények gyakran éppen a szélsőséges helyzetekben jönnek elő.
 
-> **A gyakorlatból:** A MÁV-automaták tesztelésénél egészen extrém forgatókönyveket is kidolgoztunk. Volt egy „nagyi teszt", ahol 60 év felettiekkel próbáltuk ki az automatát. De ennél is tovább mentünk: teszteltünk olyanokkal, akik szándékosan ittas állapotban voltak -- a harmadik sör után odaadtuk nekik a prototípust, hogy na, most kéne venni egy jegyet. Voltak pszichológiai stressztesztjeink is, ahol az embereket abba a rendkívül idegesítő állapotba hoztuk, hogy „szia, bent áll a vonat, egy perced van jegyet venni!" -- elindítottuk a stoppert, és próbáltuk elérni, hogy tényleg úgy érezze, most indul a vonat és nagyon ideges legyen. Ezt kombináltuk is: részeg, halálideg, 60 év feletti. Azt mondtuk: ha így is meg tudod venni a jegyet, akkor az automata valószínűleg működni fog kevésbé terhelő körülmények között is. Szélsőséges? Igen. De pont az ilyen tesztelés mutatja meg, hol vannak a valódi töréspontok.
+> **A gyakorlatból:** A MÁV-automaták tesztelésénél egészen extrém forgatókönyveket is kidolgoztunk. Volt egy „nagyi teszt", ahol 60 év felettiekkel próbáltuk ki az automatát (65 év felett egyébként nem teszteltünk, mert ingyenes a közlekedés, de helyjegyet azért kell venniük). De ennél is tovább mentünk: a harmincéves barátainkat leitattuk -- a harmadik sör és az első rövid után odaadtuk nekik a prototípust, hogy na, most kéne venni egy jegyet. Voltak pszichológiai stressztesztjeink is, ahol az embereket abba a rendkívül idegesítő állapotba hoztuk, hogy „szia, bent áll a vonat, egy perced van jegyet venni!" -- elindítottuk a stoppert, és próbáltuk elérni, hogy tényleg úgy érezze, most indul a vonat és nagyon ideges legyen. Ezt kombináltuk is: részegen, halálidegesen, 60 év felett -- ha így is meg tudod venni a jegyet, akkor az automata valószínűleg működni fog kevésbé terhelő körülmények között is.
 
 ## Jutalmazás
 

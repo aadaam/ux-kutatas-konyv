@@ -84,7 +84,7 @@ Az eddigiekben úgy beszéltünk a termékről, mintha az egyben megszülető do
 
 Mindenki azt gondolja az Apple-ről, hogy „csak úgy" szüli a zseniális termékeket. Nem erről van szó. Nézzük az iPod példáját.
 
-Az iPod egy MP3 lejátszó volt, 2001-ben jelent meg, amikor mindenkinek volt már MP3 lejátszója. Ennek az volt a különlegessége, hogy merevlemezes volt, tehát viszonylag nagy tárhelyet tudott kezelni, ráadásul volt egy fehér fülhallgatója -- ha a metrón láttad, tudtad, hogy a másiknak iPodja van.
+Az iPod egy MP3 lejátszó volt, 2002-ben jelent meg, amikor mindenkinek volt már MP3 lejátszója. Ennek az volt a különlegessége, hogy merevlemezes volt, tehát viszonylag nagy tárhelyet tudott kezelni, ráadásul volt egy fehér fülhallgatója -- ha a metrón láttad, tudtad, hogy a másiknak iPodja van.
 
 De önmagában ez nem adta el a terméket. A második generáció is csak a főbb hiányosságait javította. A harmadik generáció új gombsort és mechanikát kapott -- csak nem kellett senkinek. Közben az Apple rájött, hogy ökoszisztémában kell gondolkodni: megcsinálták az iTunes zeneboltot, PC-re is kihozták. És utána, amikor a negyedik generáció megérkezett -- színes képernyővel, egyszerűsített kezelőfelülettel --, hirtelen mindenki akarta. Karácsonyi slágertermék lett, kifogyott, megdobta az Apple részvényárfolyamát.
 
