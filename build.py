@@ -15,6 +15,7 @@ with tempfile.TemporaryDirectory() as tmp:
     subprocess.run(
         ["pandoc", *map(str, chapters), "-f", "markdown", "-t", "html5", "-s",
          "--metadata", "pagetitle=Felhasználókutatás", "--metadata", "lang=hu",
+         "--toc", "--toc-depth=2", "--metadata", "toc-title=Tartalomjegyzék",
          "--css", "style.css", "-o", str(html)],
         cwd=ROOT, check=True,
     )

@@ -219,3 +219,46 @@ figcaption {
   margin-top: 0.5em;
   text-align: center;
 }
+
+/* Table of contents */
+nav#TOC {
+  page-break-after: always;
+}
+
+nav#TOC h2 {
+  margin-top: 0;
+  font-size: 22pt;
+  border-bottom: 3px solid #042460;
+  padding-bottom: 0.3cm;
+}
+
+nav#TOC ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+nav#TOC > ul > li {
+  margin-top: 0.7em;
+  font-weight: 700;
+}
+
+nav#TOC ul ul {
+  padding-left: 1.2em;
+  margin-top: 0.2em;
+}
+
+nav#TOC ul ul li {
+  font-weight: 400;
+  font-size: 10pt;
+  margin-bottom: 0.1em;
+}
+
+nav#TOC a {
+  color: #042460;
+}
+
+nav#TOC a::after {
+  content: leader('.') target-counter(attr(href), page);
+  color: #1a1a1a;
+}
