@@ -171,7 +171,7 @@ A társkönyvvel azonos szabályrendszert alkalmazzuk. A szerző ebben a kurzusb
 - felhasználói életút (user journey)
 - használhatósági teszt (usability test)
 - sztereotípia-vizsgálat (stereotype audit)
-- viselkedési kohorsz (behavioral cohort)
+- viselkedési kohort (behavioral cohort)
 - archetípus (archetype)
 - interjúalap (discussion guide)
 - toborzó kérdőív (screener)
@@ -238,7 +238,7 @@ Példa (teljes mondatok, ponttal):
 
 **Definíciós listák:** fogalom + magyarázat formában, ahol a fogalom dőlt betűvel:
 
-*Viselkedési kohorsz*
+*Viselkedési kohort*
     Azon emberek csoportja, akik azonos háttérrel, azonos kontextusban, azonos célokért küzdenek -- és emiatt azonosan cselekszenek.
 
 *Archetípus*
@@ -340,7 +340,7 @@ Az alábbi szótár az SRT-feliratokból és a szerző szóhasználatából ép�
 | Magyar kifejezés | Angol megfelelő | Megjegyzés |
 |---|---|---|
 | perszóna | persona | A szerző "perszóná"-t használ |
-| viselkedési kohorsz | behavioral cohort | A perszóna definíciós alapja |
+| viselkedési kohort | behavioral cohort | A perszóna definíciós alapja |
 | archetípus | archetype | Nem átlag, hanem jellemző típus |
 | sztereotípia | stereotype | A perszónától megkülönböztetendő |
 | kontextus | context | A perszóna háttere és környezete |
@@ -393,7 +393,7 @@ Az alábbi neveket és hivatkozásokat következetesen használjuk a könyvben:
 - **Donald Norman** -- *The Design of Everyday Things* szerzője. A felhasználóközpontú tervezés alapjainak kidolgozója.
 - **Jakob Nielsen** -- a használhatósági tesztelés és a "discount usability" módszertan úttörője.
 - **Steve Krug** -- a *Don't Make Me Think* szerzője. A gerillatesztelés népszerűsítője.
-- **Behaviorista pszichológia** -- a viselkedési kohorsz-alapú perszónamodell elméleti háttere (a szerző expliciten hivatkozik rá).
+- **Behaviorista pszichológia** -- a viselkedési kohort-alapú perszónamodell elméleti háttere (a szerző expliciten hivatkozik rá).
 - **GDPR** -- az európai adatvédelmi rendelet. A toborzás és az interjúfelvételek jogi kerete.
 
 ---
@@ -466,7 +466,7 @@ a hallgatóságnak -- megőrizzük az interaktív jelleget.]
 
 3. **Kereszthivatkozások:** A szóbeli előadásban "erről már beszéltünk" -- a könyvben ez pontos hivatkozás legyen: "lásd a 3. fejezet „A szűrőkérdőív összeállítása" című részét."
 
-4. **Definíciós dobozok:** Ahol a szerző egy új fogalmat vezet be (pl. "viselkedési kohorsz", "archetípus", "információs szükséglet"), ott emeljük ki definíciós blokkba az első előfordulásnál.
+4. **Definíciós dobozok:** Ahol a szerző egy új fogalmat vezet be (pl. "viselkedési kohort", "archetípus", "információs szükséglet"), ott emeljük ki definíciós blokkba az első előfordulásnál.
 
 5. **Vizuális elemek:** A szóbeli előadás dia-hivatkozásait ábrákká kell alakítani. Minden ábrához:
    - Számozott felirat (pl. "3-2. ábra.")

@@ -4,7 +4,7 @@ Az előző fejezetben megtanultuk, hogyan készítsünk interjúkat, hogyan kér
 
 ## Mi az a perszóna (persona)?
 
-A perszóna egy viselkedési kohorsz archetípusa -- mondja a kissé akadémikus definíció. De mit jelent ez magyarul? A viselkedési kohorsz azon emberek csoportja, akik azonosan cselekszenek. Az archetípus pedig azt jelenti, hogy nem az összes résztvevő átlagából jön létre a kép, hanem egy jellemző fajtát emelünk ki. Nem sztereotipikus, hanem archetipikus -- ő a megjelenítő főhőse ennek a csoportnak.
+A perszóna egy viselkedési kohort archetípusa -- mondja a kissé akadémikus definíció. De mit jelent ez magyarul? A viselkedési kohort azon emberek csoportja, akik azonosan cselekszenek. Az archetípus pedig azt jelenti, hogy nem az összes résztvevő átlagából jön létre a kép, hanem egy jellemző fajtát emelünk ki. Nem sztereotipikus, hanem archetipikus -- ő a megjelenítő főhőse ennek a csoportnak.
 
 A behaviorista pszichológia szerint azonos a viselkedés akkor, ha emberek azonos háttérrel, azonos kontextusban, azonos célokért küzdenek. Tehát a perszónának alapvetően van egy kontextusa (előélet és környezet) és vannak céljai. A kontextusból -- amely a perszóna előéletét és a környezetét jelenti -- következtethetünk arra, hogy a cél miért nem teljesül. Ha ez egy úgynevezett véges cél, és nem teljesül, az problémát jelent. A perszóna problémái tehát nem mások, mint azok a dolgok, amik ő és a célja között állnak.
 
