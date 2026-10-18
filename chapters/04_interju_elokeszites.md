@@ -194,6 +194,8 @@ Tegyük fel, hogy megvannak a témakörök a sztereotípiavizsgálatból. Az int
 
 3. **Szavazás (dot voting)** -- Mivel egy interjúban maximum 10--20 kérdés fér el, szűkítenünk kell. A pontszavazásos (dot voting) módszert használjuk: mindenki kap fejenként 6--8 szavazatot (hüvelykujjszabály: másfélszer annyi pötty, mint amennyi kérdést meg akarunk tartani), és ezeket szétosztja a kérdések között.
 
+![Témakörök szerint csoportosított kérdések pontszavazás után](images/slide-055.jpg)
+
 > **A gyakorlatból:** Két ember, három témakör, fejenként három kérdés -- az is 12 kérdés, ami rengeteg. A szavazás után viszont kialakul egy kezelhető lista: lesznek kérdések, amelyek több pöttyöt kapnak, és lesznek, amelyek nullát. Az utóbbiakat egyszerűen elfelejtjük.
 
 ### A végeredmény: az interjú-útmutató

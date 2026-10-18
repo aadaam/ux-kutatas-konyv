@@ -14,6 +14,8 @@ A toborzás nagyban hasonlít egy álláshirdetés feladásához. A folyamat lé
 6. **Interjú lefolytatása** -- Megtörténik az interjú, amelyet általában felveszünk (ennek GDPR-vonzatai vannak, erről később).
 7. **Jutalom küldése** -- A sikeres interjú után küldünk egy ajándékot (ösztönzőt).
 
+![A toborzás menete: hirdetés, kérdőív, szűrés, meghívó, visszaigazolás, emlékeztető, interjú, ajándék](images/slide-078.jpg)
+
 > **Tipp:** Az interjú napján küldött reggeli emlékeztető drasztikusan csökkenti a lemondások számát. Egy rövid üzenet elég: „Szia! Ne feledd, ma van az interjúnk, itt és itt találkozunk."
 
 ## A toborzókérdőív összeállítása

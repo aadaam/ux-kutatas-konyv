@@ -18,6 +18,8 @@ Ahogy a perszóna próbálja elérni a célját, az egy folyamat: valahonnan val
 
 Hogyan is állítunk össze egy perszónát? Normális esetben egy kutatási összefoglaló anyagból hozzuk létre, amelyben kijelöljük az elemeket. Tehát van egy interjújegyzetünk, és ezeket az elemeket kódoljuk ki belőle. Az eredmény egy összefoglaló diagram.
 
+![Perszónakártya-példa (FIBA) az elemek megjelölésével](images/slide-059.jpg)
+
 ### Név és szerep
 
 A perszóna legfontosabb eleme a név és a szerep. Általában valami olyasmit írunk, mint „Béla a vízvezeték-szerelő" vagy „Sanyi a házias férj". Én személy szerint nem szeretek neveket használni -- inkább szerepeket használok --, de ez területfüggő. A nevek célja az, hogy megkülönböztessék a perszónákat egymástól.
@@ -58,21 +60,31 @@ A perszóna egy kép -- statikus. De tudjuk, hogy a felhasználónak nem ugyanaz
 
 Ezt a szót gyakran keverik. Hívják user journey-nek, customer journey-nek, néha összekeverik a user flow-val, hívják experience map-nek, sőt ide tartozik a service blueprint is. A journey-nek rengeteg alváltozata van. Amit meg kell érteni: a journey alapvetően egy hosszútávú, időben futó dolog. Órákról, napokról, hónapokról, évekről szól.
 
+![User journey, customer journey, experience map, service blueprint](images/slide-060.jpg)
+
 ### A képernyőn túl kell látni
 
 Gondold azt, hogy van egy webshopod. Ez egy viszonylag triviális UX-es feladat. De az emberközpontú tervezés egyik alapelve kimondja, hogy a képernyőn túl kell látni, és a teljes felhasználói életciklust (lifecycle) kell figyelembe venni. Hogyan kezdődik? Például úgy, hogy a felhasználó lát egy reklámot a Facebookon -- vagy akár még előbb. Hogyan végződik? Rossz esetben panasszal, de legalábbis lesz egy átvétel.
 
+![A képernyőfolyamat: amit a webshop lát](images/slide-062.jpg)
+
 > **A gyakorlatból:** Még ha ez NetPincér is, van egy húsz perc, amíg átvesszük a kaját. Nem ott fejeződik be a tranzakció, hogy lekattintottuk a webshopon. Nem ott fejeződik be az élmény -- annak ellenére, hogy napok telhetnek el, vagy rosszabb esetben akár hónapok is, ha a vám megfogja a kínai termékünket.
+
+![A valódi út: Facebook, árösszehasonlító, webshop, átvétel -- időben](images/slide-061.jpg)
 
 ### Üzleti folyamatok vs. rendszerfolyamatok
 
 Az informatika úgy fogalmazza meg, hogy vannak az úgynevezett üzleti folyamatok és vannak a rendszerfolyamatok, amik az üzleti folyamatokat kiszolgálják. A rendszerfolyamatok az üzleti folyamatban egy-egy találkozás -- például a webshopon vásárlok, az árut valahogy megszerzem, a chaten kérdezem, hogy hol a csomagom. Ezek egyenként rendszerfolyamatok, de a nagy üzleti folyamatot szolgálják ki.
+
+![Kétfajta folyamat: üzleti folyamat és rendszerfolyamat](images/slide-063.jpg)
 
 Amikor journey-ről beszélünk, napokról, hetekről, hónapokról van szó. Egy webshopos vásárlás jó esetben maximum húsz perc -- az egy rendszerfolyamat. A journey a nagy ív.
 
 ### A journey felépítése
 
 A journey-t általában post-it halmazokkal ábrázoljuk. Az idő balról jobbra folyik. Vannak diszkrét pontjai az időnek, és ezekhez tartoznak mindenféle tényezők. Annyira sok, hogy függőlegesen is csoportosítunk -- ezeket nézőpontoknak vagy lencséknek hívjuk.
+
+![A journey felépítése: idő (állapotok) balról jobbra, nézőpontok soronként](images/slide-064.jpg)
 
 **Nézőpontok lehetnek:**
 
@@ -84,9 +96,15 @@ Minden nézőpontot minden állapotban megnézünk. Ha rájövünk, hogy érdeme
 
 > **Tipp:** Az érzelmeket érdemes vizuálisan jelölni a journey-n. Jellemző megoldás, hogy smiley-kkal és diagramokkal operálunk: zölddel mosolyog, pirossal szomorú, narancssárgával bizonytalan. Ez látványossá teszi a fájdalompontokat.
 
+![Protojourney-példa érzelmi görbével](images/slide-068.jpg)
+
+![Journey-példa szakaszokkal és nézőpontokkal](images/slide-067.jpg)
+
 ### Storyboard és narratív ív
 
 A journey-t le lehet írni történetként is, a regényírás klasszikus folyamatával: előkészítés (expozíció), bonyodalom, cselekmény, tetőpont, megoldás, lecsengés. Minden fázishoz tartozik kontextus: milyen helyszínen vagyunk, kik a szereplők, mi történik éppen.
+
+![Storyboard-alapú forgatókönyv](images/slide-070.jpg)
 
 > **A gyakorlatból:** Ez annyira jellemző módszer, hogy a Harry Potter is így készül: minden fejezethez tartozik egy prófécia, és a különböző szereplők különböző dolgokat csinálnak különböző helyeken. Sőt, a 22-es csapdája is így épül fel -- Heller saját jegyzetéből kiderül az időrend, amit a regényből önmagában nem lehetne kiolvasni.
 
@@ -94,7 +112,11 @@ A journey-t le lehet írni történetként is, a regényírás klasszikus folyam
 
 Ha van egy szolgáltatásunk, annak rétegei vannak. Az első rétegeket látja maga a felhasználó: azokat a dolgokat, amik a kezébe kerülnek (legyen akár digitális, akár papíralapú), és azt, amit a vele szemben ülő ember csinál -- mondjuk egy banki ügyfélszolgálatos. De nem látja, amikor az ügyfélszolgálatos hátraszalad, nem látja a backoffice munkáját, és nem látja az előkészítő folyamatokat sem -- például a hitelárazást. Ezt az egészet le lehet írni egy service blueprint-tel, ami szintén egy journey típus.
 
+![Service blueprint: a felhasználó által látott és a háttérben futó rétegek](images/slide-073.jpg)
+
 > **A gyakorlatból:** A MÁV-nál például mi terveztük az úgynevezett utaséletciklust. Ez tartalmaz utazástervezést (ami független a jegyvásárlástól -- mert lehet, hogy bérlete van valakinek), jegyvásárlást, változáskezelést (én lekésem a vonatot, vagy a vonat késik le engem), az utazást magát, és az utóéletet -- visszatérítések, panaszkezelések. Különböző élményszintek, csatornák és szereplők tartoznak minden lépéshez.
+
+![A MÁV-Start szolgáltatásainak ergonómiai problémái az utas életciklusának függvényében](images/slide-074.jpg)
 
 ### A journey lényege összefoglalva
 
@@ -110,6 +132,8 @@ A workshopon kijegyzeteljük az interjúból az idézeteket -- lehetőleg azokat
 
 Általában legalább egy interjúfelvételt beviszünk a workshopra, legalább rövidített formában -- öt-tíz percet végighallgatunk belőle. Együtt dolgozzuk fel: ügyfél, tervezők és kutatók. Van, amikor az összeset együtt dolgozzuk fel, van, amikor csak egyet, és a többit már cetliken hozzuk, mert előre kódoltuk őket.
 
+![Interjú-feldolgozó workshop a falon](images/slide-089.jpg)
+
 > **Megjegyzés:** Amerikában ezeket színes filctollal húzzák ki az interjú leiratból, amit akár számítógép is el tud készíteni automatikusan. A magyar nyelvvel ezek az automatikus szoftverek még nem annyira jók, tehát általában kézzel kell utánadolgoznunk. Maradjunk inkább a jegyzeteknél és a felvételeknél.
 
 ### Cetlik csoportosítása
@@ -117,6 +141,8 @@ A workshopon kijegyzeteljük az interjúból az idézeteket -- lehetőleg azokat
 Létrehozunk cetliket (post-it), és elkezdjük csoportosítani őket. Az a jó, ha feladatok köré tudunk csoportosítani. Feladat lehet mondjuk egy tanulmányi rendszerben a tárgyfelvétel, a házi feladat leadása, és így tovább. Ezek a feladatok különböző helyzetekben fordulnak elő: az évkezdet (tárgyfelvétel, regisztráció, tandíjfizetés), az év vége (házi feladatok, beadandók, pót ZH-k), a vizsgaidőszak, vagy a szorgalmi időszak.
 
 Tehát kétszintű csoportosítás: helyzetek és azon belül feladatok. Az idézetek, cselekedetek mind valamilyen feladattal kapcsolatosak. Próbáljuk meg időrendbe helyezni -- emiatt gyakran át kell rendeznünk a csoportokat.
+
+![Kétszintű csoportosítás: helyzetek időben, azon belül feladatok](images/slide-088.jpg)
 
 > **Tipp:** Egy-egy interjúból simán van száz post-it, több interjúból négyszáz-ötszáz is lehet. Simán beborítunk vele egy falat. A zöld cetlik a feladatok, a piros cetlik felettük a helyzetek. Digitálisan néha könnyebb, de mi nagyon gyakran csináljuk analóg módon.
 
@@ -133,6 +159,8 @@ Az első és legfontosabb szabály: legyen sok idézet. Minél több konkrét id
 
 A második: legyen sok konkrét cselekedet. A felhasználó ezt tette, azt tette. Lehetőleg az interjúnál tanult módszer szerint: nem amit szokott csinálni, hanem amit legutoljára konkrétan csinált.
 
+![A cetlik típusai: idézet, cél, cselekedet, probléma, felmerült kérdések, ötletek](images/slide-090.jpg)
+
 > **Figyelem!** Ez a kettő -- idézetek és cselekedetek -- domináljon, ha lehet. Mert az, hogy miért csinál dolgokat az ember, az gyakran a mi fantáziánk. Az, hogy milyen problémákba ütközött, az is a mi kontextusfelismerésünk. Az idézet a biztos, a cselekedet a biztos.
 
 ### Perszónaépítés a workshopon
@@ -146,7 +174,11 @@ A workshopon perszónákat is építünk. Ehhez egy speciális pontozó cetlit h
 
 Mindenki kap egy ilyen szettet, és kiválasztja, mit gondol arra, hogy mi lehet egy ideális perszóna célja, mottója, kontextusai és szükségletei. Aztán meglátjuk, hány perszónát kell összeállítani.
 
+![Perszónaépítés pontozó cetlikkel a feldolgozott falon](images/slide-098.jpg)
+
 A perszóna egy archetipikus személy, akinek egy konkrét célja van a rendszerrel kapcsolatban, és az összes szükséglete, kérdése, problémája ezzel az egy céllal összefügg.
+
+![A pontozó cetlik: Goal, Motto, Context, Need/Problem](images/slide-099.jpg)
 
 ### Az élményplatform
 
@@ -159,6 +191,8 @@ Nagyon fontos, hogy ezt együtt csináljátok: tervezők, kutatók és megrendel
 ### A mentális modell
 
 Amikor az ötleteket is hozzápárosítjuk a feldolgozáshoz, azt mentális modellnek hívjuk. Indi Young írt róla könyvet (*Mental Models*). Felül vannak azok a dolgok, amik az interjúból kiestek -- például egy reggeli készülődés --, és alul vannak azok a feature ötletek, amikkel mi próbáljuk párosítani ezeket. A klasszikus pontozós módszerrel elkezdjük értékelni az ötleteket, és ez tulajdonképpen megadja a leendő szoftver vagy szolgáltatás funkciótérképét (feature map).
+
+![Mentális modell: helyzetek és feladatok alatt a hozzájuk tartozó ötletek](images/slide-094.jpg)
 
 ## A vezetők meggyőzése történetekkel
 

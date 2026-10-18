@@ -24,6 +24,8 @@ A másik, hogy **tervezünk**: megpróbáljuk ezeket az érzéseket és gondolat
 
 Egyik sem létezik a másik nélkül. Az a kutatás, ami nem befolyásol semmit, az eléggé fióknak készült kutatás. De a tervezés sem működik kutatás nélkül, mert amit megterveztünk, azt utána le kell kutatni -- vajon tényleg jobb lett?
 
+![A UX két oldala: a kutatás feltárja, mit éreznek és gondolnak az emberek, a tervezés azt alakítja, mit érezzenek](images/slide-003.jpg)
+
 > **Tipp:** A „zöldmezős beruházások" sem igazán zöldmezősek. Mindig van egy alaphelyzet, amiből kiindulunk. Gondolj Henry Ford híres mondására: „Ha megkérdeztem volna az embereket, azt mondták volna, hogy gyorsabb lovakat akarnak." De a kutatás valódi kérdése nem az, hogy „milyen lovat akarsz", hanem az, hogy „mi a problémád a helyváltoztatással". UX kutatni majdnem mindig lehet.
 
 ## A két fő módszertani irány
@@ -80,6 +82,8 @@ A hatékonyság további mérőszámai:
 - **Visszamenetelek száma** -- hányszor kell valamit újrakezdeni? A böngészőben a vissza gomb valójában egy hibajelző gomb: ha vissza kellett menni, az azt jelenti, hogy egyenes flow-ban nem sikerült megépíteni a felületet
 - **Ideális abszolút idők** -- navigációs felülettel nagyjából 10 másodperc alatt kell végezni, döntéshozatalra másfél perc, egy feladatblokkra 10--20 perc (maximum fél óra), mert ennyit tudunk egyszerre koncentrálni
 
+![Hatékonyság mérése: lépésenként mért idők egy webshopban, összesen átlag 165 másodperc](images/slide-009.jpg)
+
 ### Hasznosság -- hányan jutnak célba?
 
 A hasznosság egy százalékos fogalom. A központi kérdése: az egyes lépéseket a felhasználók hány százaléka teljesítette segítség nélkül?
@@ -87,6 +91,8 @@ A hasznosság egy százalékos fogalom. A központi kérdése: az egyes lépése
 Gondoljunk egy webshopra, ahol a felhasználó végigmegy a következő lépéseken: főoldal, keresés, termékoldal, kosár, pénztár, fizetés. Minden lépésnél kérdés, hogy hányan jutottak oda, hánynak kellett segítség, és hányszor dobott hibaüzenetet a rendszer.
 
 > **A gyakorlatból:** A webshop tölcsér (funnel) szépen megmutatja a veszteségeket: mondjuk kilenc ember érkezik a főoldalra, a keresőig hat jut el, a termékoldalra négy, kosárba hárman raknak, pénztárba ketten jutnak el, és a végén a kilencből csak egy fizet. A kérdés az, hogy az egyes lépésekben hogyan tartjuk meg a lehető legtöbb embert.
+
+![Hasznosság mérése: hányan jutnak el a webshop egyes lépéseihez](images/slide-011.jpg)
 
 A hasznossághoz kapcsolódó mérőszámok:
 
@@ -101,7 +107,11 @@ Két áttételes mérőszám különösen fontos:
 
 **Tanulhatóság** (learnability): ahogy használom a rendszert újra és újra, mennyivel leszek hatékonyabb? Mennyivel hasznosabb számomra? Ez egy áttételes mérték, ami az idővel változó hatékonyságot és hasznosságot mutatja.
 
+![Tanulhatósági görbe: a feladatidő csökkenése ismételt próbák során](images/slide-013.jpg)
+
 **Hibázás kritikussága** (error severity): mit tudok és mennyire elrontani? Itt két dimenziót nézünk: mennyire súlyos a hiba (ha tényleg felrobban egy atomreaktor, ahogy tette ezt többször -- az nagyon para), és hány embert érint?
+
+![Hibázási diagram: a hiba súlyossága (bosszúságtól a paráig) és gyakorisága (ritkától a mindigig)](images/slide-014.jpg)
 
 > **Megjegyzés:** A hibázás priorizálásánál sajnos gyakran közgazdasági döntések születnek. A súlyosságot és az érintettek számát összeszorozzák, és ebből jön ki a prioritás. Ennek következtében az akadálymentességi hibák -- amelyek viszonylag kevés embert érintenek, mondjuk 1--2%-ot -- alacsony prioritást kapnak, pedig az érintettek számára kritikusak lehetnek.
 
@@ -115,17 +125,23 @@ Az objektív mérőszámok -- idő, sikerráta -- jól mérhetők, de maga a fel
 
 A legegyszerűbb megoldás az, amit a Burger Kingben is használnak: három-öt kis figura különböző arckifejezéssel, a nagy mosolytól a szomorú arcig. Elégedettségmérésnek egész jó, de nyilván nem az egyetlen lehetőség.
 
+![Az elégedettség egyszerű mérése arcokkal](images/slide-016.jpg)
+
 ### Net Promoter Score (NPS)
 
 A klasszikus marketing mérés az NPS: „Mennyire valószínű, hogy ajánlaná ismerőseinek?" Nullától kilencig mérik a skálát -- mindig nullától kilencig, nincs rövidített változat.
 
 A kiértékelés egyszerű: akik 0--5-öt adtak, azok az elégedetlenek (detractor), akik 8--9-et, azok a „reklámozók" (promoter). A reklámozók arányából kivonjuk az elégedetlenek arányát, és megkapjuk az NPS-t. Bármi nulla felett már egész jó -- a lényeg, hogy többen szeressék a terméket, mint ne.
 
+![Net Promoter Score: reklámozók aránya mínusz elégedetlenek aránya](images/slide-017.jpg)
+
 > **Figyelem!** Az NPS klasszikus marketing mérés, nem kifejezetten UX-es mérőszám. Vannak helyzetek, ahol egyszerűen értelmetlen: „Mennyire ajánlaná a Microsoft Windowst ismerőseinek?" Normális emberek nem ajánlgatnak egymásnak operációs rendszert. Bizonyos termékeknél a rendszeres használat sokkal érdekesebb kérdés, mint az ajánlás.
 
 ### A NASA Task Load Index (TLX)
 
 A NASA a mentális terhelés mérésére fejlesztett ki kérdőívet, a TLX-et. Ez méri, mennyire volt agyilag fárasztó a feladat, mennyire volt fizikailag fárasztó, érzett-e időnyomást a felhasználó, valamint szubjektív hatékonyságot, hasznosságot és frusztrációs szintet. Atomerőművek vagy űrkompok kezelőfelületeinél teljesen ésszerű a NASA TLX-szel mérni -- mi viszont egy elterjedtebb kérdőívet fogunk használni.
+
+![A NASA Task Load Index (TLX) kérdőíve](images/slide-018.jpg)
 
 ### A Rendszerhasználhatósági Skála -- RHS (System Usability Scale, SUS)
 
@@ -146,6 +162,8 @@ Az RHS tíz állítást tartalmaz, amelyeket 1-től 5-ig pontozunk (1 = „egyá
 
 > **Megjegyzés:** Figyeld meg, hogy a páratlan állítások pozitívak, a párosak negatívak. Ez szándékos: ha valaki lustán végigkattintja 5-5-5-5-5-re, közepes értéket kap, nem kiugróan jót. Ezzel kiszűrjük azokat, akik nem figyelnek oda a kitöltésre. Érdemes minden kérdőívet ilyen ellentétpárokkal összerakni.
 
+![Az RHS pozitív (zöld) és negatív (piros) állításai](images/slide-022.jpg)
+
 **Az RHS kiértékelése:**
 
 1. Pozitív állításoknál (páratlan sorszám): válasz mínusz 1
@@ -156,6 +174,8 @@ Az RHS tíz állítást tartalmaz, amelyeket 1-től 5-ig pontozunk (1 = „egyá
 > **Figyelem!** Az RHS-pontszám nem százalék -- hiába mozog 0 és 100 között. Az eloszlása aszimmetrikus, és a szorzó miatt nem feleltethető meg közvetlenül százalékos értéknek.
 
 Nagyjából 9000 teszt alapján az átlagos RHS-pontszám **67--68 pont** körül van -- ez az átlagos felhasználói élmény. Ez az érték meglepően stabil: bár modernizálódunk, az emberek mindig az aktuális mezőnyhöz viszonyítanak.
+
+![Az RHS-pontszámok értelmezése: percentilis rang és osztályzatok](images/slide-024.jpg)
 
 | RHS-pontszám | Osztályzat | Értelmezés |
 |---|---|---|
@@ -179,11 +199,15 @@ Ez a modell arról szól, hogy a felhasználónak van egy **célja** -- valami, 
 
 Az informatikai alkalmazás tulajdonképpen egy híd vagy létra a problémák felett: segít átmászni rajtuk. Ezért vesszük igénybe a különböző szolgáltatásokat, alkalmazásokat.
 
+![Cél, kontextus és problémák: az informatika létraként segít átjutni az akadályokon](images/slide-110.jpg)
+
 ### Az empátiaciklus
 
 Az empátiamodell a felhasználó belső világát írja le. A felhasználónak van egy problémája, és vannak **a priori ismeretei** -- emlékszik dolgokra, használt már mobilalkalmazást, volt már száz webshopban, ezért a százegyedik nem nézhet ki máshogy, mert akkor megkeveredik.
 
 A ciklus így működik: amit a felhasználó **lát** (a felületen) és **hall** (a környezetéből, marketingből), az az emlékeivel együtt befolyásolja, amit **érez** és **gondol**. Az érzései és gondolatai alapján **mond** valamit és **tesz** valamit. Amit tesz, attól megváltozik a világ, újra lát és hall valamit -- és ez adja ki a ciklust.
+
+![Az empátiaciklus: hall, lát, emlékszik, érez, gondol, mond, tesz](images/slide-120.jpg)
 
 > **Tipp:** Az empátiaciklus remek eszköz arra, hogy egy használhatósági teszt során megértsd, mi zajlik a felhasználó fejében. Figyeld, mit lát, mit mond, mit tesz -- és próbáld rekonstruálni, mit érezhet és gondolhat.
 
@@ -196,6 +220,8 @@ A Fogg-modell az ingerküszöb modellje. Három tényezőt vizsgál:
 - **Inger/kiváltó ok** (Trigger) -- van-e valami, ami beindítja a cselekvést?
 
 A viselkedés akkor következik be, ha a motiváció és a képesség szorzata elég magas ahhoz, hogy az inger átlépje az ingerküszöböt.
+
+![A Fogg-féle viselkedésmodell: a görbe felett „megy", alatta „nem megy"](images/slide-121.jpg)
 
 > **A gyakorlatból:** Tegyük fel, hogy van egymillió forintom a bankban és szomjas vagyok. Meglátok egy palack ásványvizet. Ha nagyon szomjas vagyok (magas motiváció), nem kell sok pénz ahhoz, hogy megvegyem -- hamar átugrom az ingerküszöböt. De ha egyáltalán nem vagyok szomjas, akkor lehet, hogy végtelenek a képességeim, mégsem fogok venni. És fordítva: ha annyira le vagyok gyengülve, hogy oda se tudok nyúlni az üvegért, hiába végtelen a motivációm -- nem fog történni semmi.
 

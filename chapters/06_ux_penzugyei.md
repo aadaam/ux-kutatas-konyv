@@ -52,11 +52,15 @@ Nézzük tehát, mit jelent a UX pénzben a megrendelő számára.
 
 Van egy fogalom, amit Boehm-görbének hívunk. Ez azt mondja, hogy minél később vagyunk egy szoftverfejlesztési projektben, annál drágább bármit is változtatni. Amíg nem látta senki a szoftvert, viszonylag olcsó változtatni. A fejlesztés végén már rendkívül drága. Kiadás után pedig hirtelen lökést kap a költség.
 
+![A Boehm-görbe: a változtatás ára az idő függvényében](images/slide-033.jpg)
+
 > **Figyelem!** Kiadott szoftveren rendkívül nehéz változtatni -- még ha az Agile tagadja is ennek a létezését. A fejlesztő nem akar változtatni, mert egyszer már megírta. A felhasználók hozzászoktak, és ha megváltoztatod, akiket megszoktál, azokat elveszítheted. Újra kell tanulniuk -- ott keletkezik egy csomó költség.
 
 Erre a legtöbb cég rájött, ezért használnak úgynevezett határobjektumot (boundary object). A határobjektum egy olyan objektum, ami közösen értelmezett minden érintett számára, viszont mindenki máshogyan értelmezi.
 
 A drótváz (wireframe) tipikus határobjektum: a fejlesztő azt nézi, hogyan fogja lekódolni; a marketinges azt nézi, hogyan lesz ebből eladás és lojalitás (loyalty); a designer azt nézi, milyen színvilágot és elrendezést használ. Ez a három ember nem beszéli egymás nyelvét, de ezen az objektumon keresztül értelmesen tud beszélgetni.
+
+![Határobjektum: mindenki a saját szemüvegén keresztül nézi ugyanazt a drótvázat](images/slide-034.jpg)
 
 > **Megjegyzés:** Az esetek 98 százalékában a UX cégeket arra kérik fel, hogy csináljanak egy ilyen határobjektumot -- hogy meg tudjuk beszélni, miről lesz szó. De ez önmagában még nem UX, hanem inkább ügyfélélmény (customer experience). A felhasználó ugyanis hiányzik az egyenletből.
 
@@ -66,6 +70,8 @@ Amikor a fejlesztő cégnek ajánlatot kell adnia, a bizonytalanság óriási. M
 
 Azzal, hogy részletes UX specifikációt készítünk -- nem csak drótvázat, hanem teljes logikai rendszertervet a végleges vizuálokkal --, nagyon kis bizonytalanság mellett meg lehet mondani, mennyibe fog kerülni a szoftver. Az ügyfeleink azt mondják, hogy ezzel önmagában nagyjából 30 százalékot spórolnak a fejlesztésen.
 
+![A becslés bizonytalansága a projekt fázisainak függvényében](images/slide-035.jpg)
+
 > **Tipp:** Ha a megrendelőnek el kell adnod a UX kutatás költségét, ez az az érv, amit a legtöbb fejlesztő cég ért: a részletes specifikáció csökkenti a fejlesztési költségeket, mert kevesebb az újratervezés és a félreértés.
 
 ### A valódi érték: megtalálni, mit kell fejleszteni
@@ -73,6 +79,8 @@ Azzal, hogy részletes UX specifikációt készítünk -- nem csak drótvázat, 
 De a mi ügyfeleink nem ezért használnak minket. A legnagyobb érték nem a specifikáció, hanem annak feltérképezése, hogy egyáltalán mit is kell csinálni.
 
 Képzeld el, hogy van 100 millió forintod, amit el tudsz költeni. Elindulsz egy irányba, de nem igazán találtad el. Ahogy haladsz előre a projektben, beszűkülnek a lehetőségeid -- már nem nagyon tudsz változtatni. Fokozatosan beszorulsz egy szituációba, ami nem az ideális termék. A különbséget aközött, amit valójában kellett volna csinálnod, és aközött, amit ténylegesen csináltál, valahogy bebukod: vagy a felhasználó idejében, vagy felhasználókat veszítesz, vagy konkrétan valaki megcsinálja rendesen, és elveszíted az egész piacot.
+
+![Ezt lehetett volna, ezt kellett volna, ez lett -- és ennyit buktunk](images/slide-036.jpg)
 
 A felhasználókutatóknak szerintem ez az egyik leglényegesebb tulajdonsága: meg tudják mondani, hogy mit is kell csinálni. Interjúkkal feltérképezik a piacot, használhatósági tesztekkel pedig ellenőrzik, hogy jó-e, amit fejlesztünk.
 
@@ -88,11 +96,15 @@ Az iPod egy MP3 lejátszó volt, 2001-ben jelent meg, amikor mindenkinek volt m�
 
 De önmagában ez nem adta el a terméket. A második generáció is csak a főbb hiányosságait javította. A harmadik generáció új gombsort és mechanikát kapott -- csak nem kellett senkinek. Közben az Apple rájött, hogy ökoszisztémában kell gondolkodni: megcsinálták az iTunes zeneboltot, PC-re is kihozták. És utána, amikor a negyedik generáció megérkezett -- színes képernyővel, egyszerűsített kezelőfelülettel --, hirtelen mindenki akarta. Karácsonyi slágertermék lett, kifogyott, megdobta az Apple részvényárfolyamát.
 
+![Az iPod generációi és eladásai](images/slide-039.jpg)
+
 > **A gyakorlatból:** Ez nem egy „egyik napról a másikra" siker volt. Négy generációig kellett eljutni, rengeteg terméket legyártani, amelyeket vagy megvettek vagy nem. A piaci tanulásnak iszonyatos kockázatai vannak -- ha a teljes marketinget ráereszted az első verzióra és beégsz, mindenki megjegyzi, hogy „az iPod szar". Rengeteg termék van, ami nem tud kimászni abból, hogy 5--10 évvel ezelőtt rossz volt.
 
 ### Az agilis build-measure-learn ciklus korlátai
 
 Az agilis fejlesztés (Agile development) build-measure-learn ciklusa arról szól, hogy van egy ötletünk, megépítjük, megmérjük a piaci reakciót, tanulunk belőle, és kezdjük elölről. A probléma az, hogy megépíteni egy terméket -- még ha csak egy verziót is -- rendkívül drága. Magyarországon a fejlesztések nagyságrendileg a tízmilliós sávban vannak, de vannak százmilliós és milliárdos projektek is.
+
+![Az agilis build-measure-learn ciklus](images/slide-040.jpg)
 
 Ráadásul a fejlesztés közben már bekorlátoz a folyamat: nem tudsz mindent megváltoztatni. Amikor kiadtad, akkor meg végképp nehéz. A legtöbb magyar cégnek nincsenek olyan likviditási tartalékai, mint az Apple-nek, ezért látunk mai napig cégeket, amelyek a '91-ben kiadott DOS-os szoftverükön kapaszkodnak.
 
@@ -100,11 +112,15 @@ Ráadásul a fejlesztés közben már bekorlátoz a folyamat: nem tudsz mindent 
 
 Mi egy másik ciklust követünk: learn-design-test. Nem tervezünk első körben semmit -- felhasználói interjúkra megyünk ki. Ebből hipotéziseket építünk, erre tervezünk rendszert, csinálunk belőle prototípust, a prototípust visszük tesztre. Megnézzük az eltéréseket, tanulunk, és a ciklus újra megy. Egészen addig, amíg nincsenek nagy eltérések aközött, ahogy mi gondoljuk, és ahogy a felhasználó szeretné élni az életét.
 
+![A UX stratégiai ciklus: learn-design-test](images/slide-042.jpg)
+
 Ekkor visszük ki építésre, és ekkor már tudjuk, hogy nem nagyon kell módosítani sem a fejlesztés során, sem kiadás után.
 
 ### A prototípus mint határobjektum
 
 A prototípus azért hatékony, mert határobjektumot képez a cég és a felhasználó között. A piac csak akkor tudja elmondani a véleményét, ha legalább a marketing anyagait -- de általában az igazi terméket vagy a prototípusát -- megfogta. A trükk az, hogy mi nem csak simán drótvázat építünk, hanem komplett prototípust, amit három-négy-öt fővel tesztelünk.
+
+![A prototípus mint határobjektum](images/slide-043.jpg)
 
 A prototípus előnyei a késztermékhez képest:
 
